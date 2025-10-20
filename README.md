@@ -19,7 +19,7 @@ Dreamcast Disc Image ID Changer is easy to use.
 
 In Windows' File Explorer, drag a disc image (e.g., `.gdi`, `.cue`, or `.cdi`) onto `dc_id_changer.exe`.
 
-Once the program launches, the user will be presented with the disc's current product ID, along with an option to enter a new one.
+Once the program launches, the user will be presented with the disc's current product ID, along with an option to enter a new one. The new product ID will be automatically uppercased and truncated at 10 characters, and then used to patch the provided disc image.
 
 Alternatively, it can be launched from a PowerShell Terminal or Command Prompt with the full path to the disc image as the first input argument. See example below.
 
