@@ -2,7 +2,7 @@
 A utility for easily modifying a Dreamcast disc image's product ID.
 
 ## Current Version
-Dreamcast Disc Image ID Changer is currently at version [1.0](xxxx).
+Dreamcast Disc Image ID Changer is currently at version [1.0](https://github.com/DerekPascarella/Dreamcast-Disc-Image-ID-Changer/releases/download/1.0/Dreamcast.Disc.Image.ID.Changer.zip).
 
 ## Changelog
 - **Version 1.0 (2025-10-20)**
