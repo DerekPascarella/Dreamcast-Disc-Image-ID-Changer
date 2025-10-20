@@ -4,7 +4,7 @@ A utility for easily modifying a Dreamcast disc image's product ID.
 Patching a disc image's product ID is particularly useful for indie/homebrew games that share generic IDs and thus cause overlap issues with things like automatic virtual VMU solutions. Note that there are a number of [retail games that share product IDs](https://github.com/mrneo240/openmenu/blob/a43013ca36e9b89719b91de1b61ae96ffa5f348c/backend/gd_list.c#L289) as well.
 
 ## Current Version
-Dreamcast Disc Image ID Changer is currently at version [1.0](https://github.com/DerekPascarella/Dreamcast-Disc-Image-ID-Changer/releases/download/1.0/Dreamcast.Disc.Image.ID.Changer.zip).
+Dreamcast Disc Image ID Changer is currently at version [1.0](https://github.com/DerekPascarella/Dreamcast-Disc-Image-ID-Changer/releases/download/1.0/Dreamcast.Disc.Image.ID.Changer.v1.0.zip).
 
 ## Changelog
 - **Version 1.0 (2025-10-20)**
