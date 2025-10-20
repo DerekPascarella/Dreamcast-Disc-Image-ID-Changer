@@ -25,6 +25,6 @@ Alternatively, it can be launched from a PowerShell Terminal or Command Prompt w
 
 `dc_id_changer.exe C:\full\path\to\disc.cdi`
 
-Linux/UNIX users may leverage the [base Perl program](xxx) rather than the pseudo-compiled executable.
+Linux/UNIX users may leverage the base Perl program included in the release package rather than the pseudo-compiled executable.
 
 ![alt text](https://github.com/DerekPascarella/Dreamcast-Disc-Image-ID-Changer/blob/main/images/screenshot.png?raw=true)
