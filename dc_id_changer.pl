@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# Dreamcast Disc Image ID Changer v1.0
+# Dreamcast Disc Image ID Changer v1.1
 # A utility for easily modifying a Dreamcast disc image's product ID.
 #
 # Written by Derek Pascarella (ateam)
@@ -10,10 +10,10 @@ use strict;
 use File::Basename;
 
 # Set version number.
-my $version = "1.0";
+my $version = "1.1";
 
 # Set header used in CLI messages.
-my $cli_header = "\nDreamcast ID Changer v" . $version .
+my $cli_header = "\nDreamcast Disc Image ID Changer v" . $version .
                  "\nA utility for easily modifying a Dreamcast disc image's product ID.\n\n" .
                  "Written by Derek Pascarella (ateam)\n\n";
 
@@ -67,7 +67,7 @@ foreach my $file (keys %$header_locations)
 }
 
 # Status message.
-print "Total matches found: " . $total_matches . ":\n";
+print $total_matches . " total match(es) found:\n";
 
 foreach my $file (sort keys %$header_locations)
 {
